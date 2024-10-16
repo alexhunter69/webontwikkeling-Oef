@@ -1,0 +1,40 @@
+img{
+    float:left;
+    
+}
+section{
+    float: left;
+    margin: 50px;
+    
+}
+body{
+    background: #7AE7C7;
+    
+}   
+nav{
+    background:#F28F3B;
+
+}
+footer {
+    text-align: left;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background: #A59E8C;   
+    clear: left;
+}
+section table th{
+    border: 2px solid black;
+    background:#F28F3B;
+}
+section table td{
+    border: 2px solid black;
+}
+main table th{
+    border: 2px solid black;
+    background: #F28F3B;
+}
+main table td{
+    border: 2px solid black;
+}
