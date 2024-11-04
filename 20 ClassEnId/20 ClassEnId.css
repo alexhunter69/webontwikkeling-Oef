@@ -1,0 +1,15 @@
+#titel{
+    color: red;
+}
+section{
+    margin: 15px;
+    padding: 5px;
+}
+.cities{
+    color: white;
+    background: black;
+}
+.countries{
+    background: lightblue;
+}
+section

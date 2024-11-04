@@ -1,0 +1,34 @@
+nav{
+
+
+}
+li{
+    list-style: none;
+    float: left;
+    background-color: lightblue;
+    color: lightblue;
+    border-top: 4px solid darkblue;
+    border-bottom: 4px solid darkblue;
+    width: 33%;
+    margin-left: -40px;
+    tewt-size
+
+}
+a{
+    text-decoration: none;
+}
+main p{
+    text-align: center;
+}
+main h3{
+    text-align: center;
+}
+footer{
+    text-align: right;
+    background-color: lightblue;
+    border-bottom: 3px solid darkblue;
+    color: darkblue;
+}
+img{
+    width: 90%;
+}

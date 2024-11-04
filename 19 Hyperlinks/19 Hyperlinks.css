@@ -1,0 +1,22 @@
+a {
+    display: block;
+    background: lightsalmon;
+    width: 250px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px 0px 20px 0;
+    margin: 10px;
+    font-size: 20px;
+}
+a:hover{
+    color: maroon;
+}
+a:visited{
+    color:maroon;
+    background: lightsalmon;
+}
+a:active{
+    background: darkblue;
+    color: white;
+}
